@@ -1,13 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Search from './search';
-import './index.css';
-import './search.css';
-import './css/style.css';
-
-
+import App from './App'
 
 ReactDOM.render(
-  <Search />,
-  document.getElementById('root')
-);
+		<App />, 
+		document.getElementById('root')
+)
+
+
