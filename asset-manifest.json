@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/spoonfoundfood/static/js/main.31d3003c.chunk.js",
+    "main.js.map": "/spoonfoundfood/static/js/main.31d3003c.chunk.js.map",
+    "runtime-main.js": "/spoonfoundfood/static/js/runtime-main.093e764d.js",
+    "runtime-main.js.map": "/spoonfoundfood/static/js/runtime-main.093e764d.js.map",
+    "static/js/2.31a6fee5.chunk.js": "/spoonfoundfood/static/js/2.31a6fee5.chunk.js",
+    "static/js/2.31a6fee5.chunk.js.map": "/spoonfoundfood/static/js/2.31a6fee5.chunk.js.map",
+    "index.html": "/spoonfoundfood/index.html",
+    "precache-manifest.d8c8942eb00fc746485d2f38b94a36f9.js": "/spoonfoundfood/precache-manifest.d8c8942eb00fc746485d2f38b94a36f9.js",
+    "service-worker.js": "/spoonfoundfood/service-worker.js",
+    "static/js/2.31a6fee5.chunk.js.LICENSE.txt": "/spoonfoundfood/static/js/2.31a6fee5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.093e764d.js",
+    "static/js/2.31a6fee5.chunk.js",
+    "static/js/main.31d3003c.chunk.js"
+  ]
+}
