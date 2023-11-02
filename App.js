@@ -3,13 +3,16 @@ import React from 'react'
 //import MainContent from './components/MainContent'
 //import Footer from './components/Footer'
 //import TodoItem from './components/TodoItem'
-
+import Posts from "Posts";
 function App() {
-	//const firstName = "Steve";
+	
 	return (
-		<div>
-		
-		</div>
+    <div className="main-container">
+      <h1 className="main-heading">
+        Blog App using React Js 
+      </h1>
+      <Posts />
+    </div>
 	)
 }
 
