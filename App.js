@@ -3,7 +3,7 @@ import React from 'react'
 //import MainContent from './components/MainContent'
 //import Footer from './components/Footer'
 //import TodoItem from './components/TodoItem'
-import Posts from "Posts";
+//import Posts from "Posts";
 function App() {
 	
 	return (
@@ -11,7 +11,7 @@ function App() {
       <h1 className="main-heading">
         Blog App using React Js 
       </h1>
-      <Posts />
+    
     </div>
 	)
 }
