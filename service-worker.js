@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/spoonfoundfood/precache-manifest.d8c8942eb00fc746485d2f38b94a36f9.js"
+  "/spoonfoundfood/precache-manifest.0d57730dfccf37338c7fd67f1dc290d2.js"
 );
 
 self.addEventListener('message', (event) => {
