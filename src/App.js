@@ -5,15 +5,8 @@ import React from 'react'
 import TodoItem from './components/TodoItem'
 
 function App() {
-	//const firstName = "Steve";
 	return (
 		<div>
-		<TodoItem />
-		<TodoItem />
-		<TodoItem />
-		<TodoItem />
-		<TodoItem />
-		<TodoItem />
 		</div>
 	)
 }
