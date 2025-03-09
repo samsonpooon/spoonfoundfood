@@ -6,8 +6,8 @@ import TodoItem from './components/TodoItem'
 
 function App() {
 	return (
-		<div>
+		<div>hi
 		</div>
 	)
 }
-export default App
+export default App;
